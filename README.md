@@ -19,3 +19,7 @@ https://shorturl.at/PwIPk
 ## CRUD Application using XAMPP & MySQL  
 Implements Create, Read, Update, and Delete (CRUD) operations with a MySQL database hosted via XAMPP for data management.  
 https://shorturl.at/qDY2e  
+
+## Calculator with History and Label  
+A basic calculator that performs arithmetic operations while keeping a history of calculations and allowing users to label entries for better organization.  
+https://shorturl.at/GnaRh  
